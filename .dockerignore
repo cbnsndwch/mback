@@ -1,0 +1,10 @@
+.env
+.docker
+.git
+.github
+.vscode
+dist
+docs
+lib
+node_modules
+**/node_modules

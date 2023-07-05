@@ -1,0 +1,15 @@
+.vscode
+.editorconfig
+.gitignore
+.prettierignore
+.prettierrc
+
+# yarn
+.yarn
+.yarnrc.yml
+node_modules
+
+CHANGELOG.md
+assets
+dist
+lib
